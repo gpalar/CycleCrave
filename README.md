@@ -1,4 +1,4 @@
-## :sparkles: CycleCrave :sparkles: : a dedicated hub offering personalized recommendations for key facets of the menstrual cycle: hydration, sleep, and nutrition
+## CycleCrave 🍉 a dedicated hub offering personalized recommendations for key facets of the menstrual cycle: hydration, sleep, and nutrition
 
 ## :wave: view the demo here [here](https://drive.google.com/file/d/1ZKHtFnceAxzAqTKGDZVxZMY6GykmXkV2/view)
 
